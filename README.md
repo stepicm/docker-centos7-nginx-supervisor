@@ -1,2 +1,2 @@
 # docker-centos7-nginx-supervisor
-CentOS 7 Nginx docker image handled by supervisor
+Docker image running nginx service under supervisor
